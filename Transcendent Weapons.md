@@ -13,46 +13,46 @@ Other than granting humans super stregnth and devastating power, those weapons a
 {{Start Tabber}}
 
 ### AK-47 Paladin
-[right|link=AK-47 Paladin](<File:Ak47paladinnb.png>)
-{Template("main"):[AK-47 Paladin]}}
+[File:Ak47paladinnb.png](<File:Ak47paladinnb.png>)
+{{Template("main"):[AK-47 Paladin]}}
 
 
 
 A special [assault rifle](<assault rifle>) chambered with 50 rounds of [.50 BMG](<.50 BMG>) that can push away incoming [zombie](<zombie>)s. It can be fired either in full or semi-automatic. The semi-auto mode comes with a splash damage.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### M4A1 Dark Knight
-[right|link=M4A1 Dark Knight](<File:M4a1darkknightnb.png>)
-{Template("main"):[M4A1 Dark Knight]}}
+[File:M4a1darkknightnb.png](<File:M4a1darkknightnb.png>)
+{{Template("main"):[M4A1 Dark Knight]}}
 
 
 
 A special assault rifle chambered with 50 rounds of .50 BMG. Its secondary fire mode focuses on penetration and fire powers.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### AWP Elven Ranger
-[right|link=AWP Elven Ranger](<File:Buffawpnb.png>)
-{Template("main"):[AWP Elven Ranger]}}
+[File:Buffawpnb.png](<File:Buffawpnb.png>)
+{{Template("main"):[AWP Elven Ranger]}}
 
 
 
 A [sniper rifle](<sniper rifle>) fed with 20 rounds of [.338 Lapua Magnum](<.338 Lapua Magnum>) specially designed to battle against the zombies. By zooming in, the user can charge up the shots to deal higher damage.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Warhammer Storm Giant
-[link=Warhammer Storm Giant|right](<File:Stormgiantnb.png>)
-{Template("main"):[Warhammer Storm Giant]}}
+[File:Stormgiantnb.png](<File:Stormgiantnb.png>)
+{{Template("main"):[Warhammer Storm Giant]}}
 
 
 
 A giant two-handed hammer that contains an ancient tribe of giants' immense power. By holding this hammer, this power is transferred into the owner. Draw and combination attacks are available.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
@@ -63,35 +63,35 @@ A giant two-handed hammer that contains an ancient tribe of giants' immense powe
 {{Start Tabber}}
 
 ### Desert Eagle Crimson Hunter
-[link=Desert Eagle Crimson Hunter|right](<File:Bloodhunternb.png>)
-{Template("main"):[Desert Eagle Crimson Hunter]}}
+[File:Bloodhunternb.png](<File:Bloodhunternb.png>)
+{{Template("main"):[Desert Eagle Crimson Hunter]}}
 
 
 
 This is a 30-round [.45 ACP](<.45 ACP>) fed [pistol](<pistol>) with the peculiar quirk of draining the blood of its target which is put together within a orbuculum or [grenade](<grenade>), after successfully landing a predetermined number of shots on a target. The impact of the grenade wreaks dreadful harm and knockback to its surroundings.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### SG552 Lycanthrope
-[right|link=SG552 Lycanthrope](<File:Buffsg552nb.png>)
-{Template("main"):[SG552 Lycanthrope]}}
+[File:Buffsg552nb.png](<File:Buffsg552nb.png>)
+{{Template("main"):[SG552 Lycanthrope]}}
 
 
 
 A special assault rifle chambered with 50 rounds of [.50 BMG](<.50 BMG>) that deals devastating damage to [zombies](<Zombie>). Equipped with a sniper scope to have better accuracy at killing the target as well as damage boost.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Blade Runebreaker
-[right|link=Blade Runebreaker](<File:Runebladenb.png>)
-{Template("main"):[Blade Runebreaker]}}
+[File:Runebladenb.png](<File:Runebladenb.png>)
+{{Template("main"):[Blade Runebreaker]}}
 
 
 
 Bearing the mysterious power of an ancient people, and protected by runes, this blade is so outstandingly sharp it can even split boulders apart. It also has the ability to radiate powerful blade strikers.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
@@ -102,45 +102,45 @@ Bearing the mysterious power of an ancient people, and protected by runes, this 
 {{Start Tabber}}
 
 ### Python Desperado
-[right|link=Python Desperado](<File:Desperadonb.png>)
-{Template("main"):[Python Desperado]}}
+[File:Desperadonb.png](<File:Desperadonb.png>)
+{{Template("main"):[Python Desperado]}}
 
 
 
 This is the modified version of Colt Python with 7 rounds of .44 Fast Draw each. This revolver uses special magnum bullets that are quickly fired by fanning the hammer. It is automatically loaded when you draw the other hand pistol.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### AUG Guardian
-[right|link=AUG Guardian](<File:Buffaugnb.png>)
-{Template("main"):[AUG Guardian]}}
+[File:Buffaugnb.png](<File:Buffaugnb.png>)
+{{Template("main"):[AUG Guardian]}}
 
 
 
 This is an assault rifle fed with 50 rounds of .50 BMG specialized in high accuracy and deadly damage. It causes great damage to zombies and has zoom function enabled for more accurate shooting. 
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Dual Sword Phantom Slayer
-[right|link=Dual Sword Phantom Slayer](<File:Dualswordnb.png>)
-{Template("main"):[Dual Sword Phantom Slayer]}}
+[File:Dualswordnb.png](<File:Dualswordnb.png>)
+{{Template("main"):[Dual Sword Phantom Slayer]}}
 
 
 
 These dual swords were infused with the absolute power of the gatekeepers of heaven and hell in order to destroy the corruptive evil that blights the world. If the special trigger conditions are met, the feast unfolds.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Transcendence Magnum Drill Gold
-[right|link=Transcendent Magnum Drill Gold](<File:Sgdrillgnb.png>)
-{Template("main"):[Magnum Drill]}}
+[File:Sgdrillgnb.png](<File:Sgdrillgnb.png>)
+{{Template("main"):[Magnum Drill]}}
 
 
 The golden edition of the Magnum Drill. Its stats are the same as +6 Magnum Drill Chimera. It can pour 50 rounds of 4-gauge shotgun shells, or use the giant drill to penetrate and crush enemies. Notify crosshair if successful blow.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
@@ -151,48 +151,48 @@ The golden edition of the Magnum Drill. Its stats are the same as +6 Magnum Dril
 {{Start Tabber}}
 
 ### Dual Beretta Gunslinger
-[right|link=Dual Beretta Gunslinger](<File:Gunkatanb.png>)
-{Template("main"):[Dual Beretta Gunslinger]}}
+[File:Gunkatanb.png](<File:Gunkatanb.png>)
+{{Template("main"):[Dual Beretta Gunslinger]}}
 
 
 
 A pair of automatic pistols given to those chosen as protectors of justice. They use 36 rounds of .44 Magnum special ammunition.
 
 They perfectly complement a combination of martial arts and shooting technique, taking out enemies at any distance swiftly and efficiently.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Red Dragon Cannon Gold
-[right|link=Transcendent Red Dragon Cannon Gold](<File:Cannonexgoldnb.png>)
-{Template("main"):[Transcendent Red Dragon Cannon Gold]}}
+[File:Cannonexgoldnb.png](<File:Cannonexgoldnb.png>)
+{{Template("main"):[Transcendent Red Dragon Cannon Gold]}}
 
 
 
 An upgraded gold version of Red Dragon Cannon that can shoot a load of fire in a short range. It can unleash a robotic gold dragon that breathes a stream of fire for 9 seconds. Hit marker shows up upon successful hit.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### M3 Black Dragon
-[right|link=M3 Black Dragon](<File:M3dragonnb.png>)
-{Template("main"):[M3 Black Dragon]}}
+[File:M3dragonnb.png](<File:M3dragonnb.png>)
+{{Template("main"):[M3 Black Dragon]}}
 
 
 
 An 8-round 12-gauge-pump-action shotgun that loads an exploding dragon shell after connecting with 8 shots.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### M249 Phoenix
-[right|link=M249 Phoenix](<File:Buffm249nb.png>)
-{Template("main"):[M249 Phoenix]}}
+[File:Buffm249nb.png](<File:Buffm249nb.png>)
+{{Template("main"):[M249 Phoenix]}}
 
 
 
 A special machine gun that holds 100 rounds of .50 calliber special ammunition, which is effective against zombies and has great battle sustainability due to its generous magzine capacity. This gun also able to fire rounds down range with considerable accuracy thanks to its 2nd phase zoom.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
@@ -202,39 +202,39 @@ A special machine gun that holds 100 rounds of .50 calliber special ammunition, 
 {{Start Tabber}}
 
 ### Holy Sword Divine Order
-[right|link=Holy Sword Divine Order](<File:Holyswordnb.png>)
-{Template("main"):[Holy Sword Divine Order]}}
+[File:Holyswordnb.png](<File:Holyswordnb.png>)
+{{Template("main"):[Holy Sword Divine Order]}}
 
 
 
 A legendary sword that can only be wielded by those chosen as guardians. It lays low the forces of evil with its holy power
 
 The sword is strengthened by striking evil beings, and its <Holy Guard> and <Holy Smite> skills are strengthened as well.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Barrett M95 White Tiger
-[right|link=Barrett M95 White Tiger](<File:M95tigernb.png>)
-{Template("main"):[M95 White Tiger]}}
+[File:M95tigernb.png](<File:M95tigernb.png>)
+{{Template("main"):[M95 White Tiger]}}
 
 
 
 This Transcendence Sniper Rilfe is filled with a spirit of the white tiger that stalks the battlefield. Ten hits with this weapon summons the white tiger itself
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Trinity Grenade
-[right|link=Trinity Grenade](<File:Stickybomb.png>)
-{Template("main"):[Trinity Grenade]}}
+[File:Stickybomb.png](<File:Stickybomb.png>)
+{{Template("main"):[Trinity Grenade]}}
 
 
 
 Becomes invisible to enemies after attaching to the first point of impact, and activates the Motion Detection System.
 
 Explosion mode choices: <Flame>, <Lightning>, <Brust>
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
@@ -245,38 +245,38 @@ Explosion mode choices: <Flame>, <Lightning>, <Brust>
 {{Start Tabber}}
 
 ### Thunder Ghost Walker
-[right|link=Thunder Ghost Walker](<File:Thunderpistol.png>)
-{Template("main"):[Thunder Ghost Walker]}}
+[File:Thunderpistol.png](<File:Thunderpistol.png>)
+{{Template("main"):[Thunder Ghost Walker]}}
 
 
 
 A single-shot pistol loaded with a single .50 caliber special round fitted with an optical transparency system. When Ghost Walker disappears from sight, an invisible fear begins.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### Infinity Laser Fist
-[right|link=Infinity Laser Fist](<File:Laserfist.png>)
-{Template("main"):[Infinity Laser Fist]}}
+[File:Laserfist.png](<File:Laserfist.png>)
+{{Template("main"):[Infinity Laser Fist]}}
 
 
 
 It is a specially small laser machine gun designed to be mounted directly on the arm to secure maneuverability with strong firepower. Is equipped with infinite energy generation device and it is possible to sustain energy charge attack.
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 
 ### X-TRACKER
-[right|link=X-TRACKER](<File:Xtracker.png>)
-{Template("main"):[X-TRACKER]}}
+[File:Xtracker.png](<File:Xtracker.png>)
+{{Template("main"):[X-TRACKER]}}
 
 
 
 A cutting-edge assault rifle fitted with the TRACKER Missile System. It can lock onto enemies and fire up to 10 micro-missiles, destroying the target.
 
 ### Hellhound
-[right|link=Hellhound](<File:Patroldrone.png>)
-{Template("main"):[Hellhound]}}
+[File:Patroldrone.png](<File:Patroldrone.png>)
+{{Template("main"):[Hellhound]}}
 
 
 
@@ -289,38 +289,38 @@ A special, military-grade drone that utilizes the top-of-the-line Hologram AR Sy
 {{Start Tabber}}
 
 ### Lightning Fury
-[right|link=Lightning Fury](<File:Lightning_fury.png>)
-{Template("main"):[Lightning Fury]}}
+[File:Lightning_fury.png](<File:Lightning_fury.png>)
+{{Template("main"):[Lightning Fury]}}
 
 
 
 This weapon generates a powerful electric storm. It fires a powerful short-range electric shock and activates an electric field that surrounds its user. After a certain number of shots, it builds up a charge to let you use the jet pack up to 2 times.
 
 ### Psychic Harmonium
-[right|link=Psychic Harmonium](<File:Pianogun.png>)
-{Template("main"):[Psychic Harmonium]}}
+[File:Pianogun.png](<File:Pianogun.png>)
+{{Template("main"):[Psychic Harmonium]}}
 
 
 
 A weapon that produces powerful sound waves. Developed by [Gunsmith](<Gunsmith>) with technology obtained from the laboratory discovered during the Lost City incident, it fires powerful sonic shots and can release a sonic boom in all directions. Two special attacks, Allegro and Fortissimo, are available. Private Erica increases the power of this weapon.
 
 ### Inferno Cannon
-[right|link=Inferno Cannon](<File:Gatlingex.png>)
-{Template("main"):[Inferno Cannon]}}
+[File:Gatlingex.png](<File:Gatlingex.png>)
+{{Template("main"):[Inferno Cannon]}}
 
 
 A shotgun that rapidly fires 45 rounds of 12 gauge shotgun ammo. Its special feature, Infernal Flame, allows it to shoot fireballs.
 
 ### Blade Frostbreaker
-[right|link=Blade Frostbreaker](<File:Blade_Frostbreaker.png>)
-{Template("main"):[Blade Frostbreaker]}}
+[File:Blade_Frostbreaker.png](<File:Blade_Frostbreaker.png>)
+{{Template("main"):[Blade Frostbreaker]}}
 
 
 A blade that retains the mysterious powers of the ancients, and has the ability to amplify the sharpness and power that can also split the glacier due to frost protection, and to emit a powerful sword.
 
 ### Eternity Laser Fist
-[right|link=Eternity Laser Fist](<File:Laserfistex.png>)
-{Template("main"):[Eternity Laser Fist]}}
+[File:Laserfistex.png](<File:Laserfistex.png>)
+{{Template("main"):[Eternity Laser Fist]}}
 
 
 This is a specially manufactured small laser machine gun designed to be mounted directly on the arm to secure maneuverability with strong firepower. It is equipped with an infinite energy generating device, so it is possible to continuously charge energy. It has a two-stage charging function, and more powerful attacks are possible with additional charging after the first charging.
@@ -332,36 +332,36 @@ This is a specially manufactured small laser machine gun designed to be mounted 
 {{Start Tabber}}
 
 ### Negev NG-7 Ajax
-[right|link=Negev NG-7 Ajax](<File:Buffng7.png>)
-{Template("main"):[Negev NG-7 Ajax]}}
+[File:Buffng7.png](<File:Buffng7.png>)
+{{Template("main"):[Negev NG-7 Ajax]}}
 
 
 150 rounds 7.62mm machine gun that uses bullets that deal fatal damage to zombies. You can block the movement of enemies or defend against a ranged attack by using a shield that incorporates technology from another world.
 
 ### Demonic Scarlet Rose
-[right|link=Demonic Scarlet Rose](<File:Demonic_scarlet_rose.png>)
-{Template("main"):[Demonic Scarlet Rose]}}
+[File:Demonic_scarlet_rose.png](<File:Demonic_scarlet_rose.png>)
+{{Template("main"):[Demonic Scarlet Rose]}}
 
 
 A lance-shaped weapon made by [Medea](<Medea>). It changes into a rose flower in full bloom, and various attacks are possible.
 
 ### Thunder Force
-[right|link=Thunder Force](<File:Crossbowex21.png>)
-{Template("main"):[Thunder Force]}}
+[File:Crossbowex21.png](<File:Crossbowex21.png>)
+{{Template("main"):[Thunder Force]}}
 
 
 It is a weapon made of a lightweight alloy made by a private optical weapon research laboratory that studies induction emission optical amplification technology. It has the function of automatically attacking enemies with infinitely generated energy bolts.
 
 ### Satellite Mine
-[right|link=Satellite Mine](<File:Sbmine.png>)
-{Template("main"):[Satellite Mine]}}
+[File:Sbmine.png](<File:Sbmine.png>)
+{{Template("main"):[Satellite Mine]}}
 
 
 This is a special mine equipped with state-of-the-art satellite guided bombing technology. It can independently search for nearby enemies and activate them or detonate them. When activated, a special area that reduces the movement of nearby enemies is activated. Inflicts a special laser bombardment that does not inflict damage.
 
 ### Blue Storm
-[right|link=Blue Storm](<File:Jetgunex.png>)
-{Template("main"):[Blue Storm]}}
+[File:Jetgunex.png](<File:Jetgunex.png>)
+{{Template("main"):[Blue Storm]}}
 
 
 A weapon capable of generating a powerful electromagnetic storm, and it generates an electric field surrounding itself by emitting a powerful electric shock toward the front. You can use the jet pack by charging energy when shooting more than a certain amount (maximum 2 times).
@@ -373,29 +373,29 @@ A weapon capable of generating a powerful electromagnetic storm, and it generate
 {{Start Tabber}}
 
 ### M2HB Devastator
-[right|link=M2HB Devastator](<File:Buffm2.png>)
-{Template("main"):[M2HB Devastator]}}
+[File:Buffm2.png](<File:Buffm2.png>)
+{{Template("main"):[M2HB Devastator]}}
 
 
 A heavy machine gun that fires incendiary .50 BMG, fed from a large backpack reservoir. After a certain amount of time, a missile launcher is activated that fires penetrating missiles that pull enemies in.
 
 ### Astra
-[right|link=Astra](<File:Guillotineex.png>)
-{Template("main"):[Astra]}}
+[File:Guillotineex.png](<File:Guillotineex.png>)
+{{Template("main"):[Astra]}}
 
 
 A weapon specialized for hunting zombies produced by the [Aegis Lab](<Aegis Lab>). After the projectile flies through a certain distance, it returns to the user again. At this time, if the Astra is holding, the bullet is recovered, but if it is blocked by an obstacle, the bullet is destroyed. Projectiles can be fired one more time before being retrieved. If the attack hits with a head shot, it changes to a special state and inflicts a powerful attack on the enemy's head and also deals damage to enemies within a certain range.
 
 ### SG552 Cerberus
-[right|Link:SG552 Cerberus](<File:Buffsg552ex.png>)
-{Template("main"):[SG552 Cerberus]}}
+[File:Buffsg552ex.png](<File:Buffsg552ex.png>)
+{{Template("main"):[SG552 Cerberus]}}
 
 
 As an assault rifle that uses 50 rounds of .50 caliber special bullets, it can inflict effective damage to zombies. When shooting in the 2nd mode, an additional attack that sharply scratches the first hit occurs, inflicting damage to all enemies to the left and right of the target.
 
 ### Failnaught
-[right|link:Failnaught](<File:Hunterbow.png>)
-{Template("main"):[Failnaught]}}
+[File:Hunterbow.png](<File:Hunterbow.png>)
+{{Template("main"):[Failnaught]}}
 
 
 The Failnaught that uses 150 holy arrows automatically aims at enemies within a certain range near the aim when shooting with the basic shot. Stacks and inflicts additional damage at each stack. When stacked 5 times, damage is transferred to nearby enemies and the mark is reset. Charging fire is possible by right-clicking.
@@ -403,15 +403,15 @@ The Failnaught that uses 150 holy arrows automatically aims at enemies within a 
 Basic shooting's automatic aiming and stacking effects do not activate in certain modes (Zombie/Human Scenario, New Zombie Shelter, Zombie Giant).
 
 ### FN57 Laevatein
-[right|Link:Laevatein](<File:Laevateinn.png>)
-{Template("main"):[FN57 Laevatein]}}
+[File:Laevateinn.png](<File:Laevateinn.png>)
+{{Template("main"):[FN57 Laevatein]}}
 
 
 A pistol that uses 50 5.7×28mm explosive rounds and explodes when it hits the target. A special function is activated when shooting more than a certain number of times.
 
 ### Psychic Sizer
-[right|Link:Psychic Sizer](<File:Psychic_sizer.png>)
-{Template("main"):[Psychic Sizer]}}
+[File:Psychic_sizer.png](<File:Psychic_sizer.png>)
+{{Template("main"):[Psychic Sizer]}}
 
 
 This is a customized weapon of [Psychic Harmonium](<Psychic Harmonium>), a sonic weapon produced by [Gunsmith](<Gunsmith>). It can use sonic shot attack using sonic energy and sonic pulse, which is an all-round attack, and combines special commands. By doing so, new and powerful potentials can be used.
@@ -423,45 +423,45 @@ This is a customized weapon of [Psychic Harmonium](<Psychic Harmonium>), a sonic
 {{Start Tabber}}
 
 ### SKULL-T9
-[right|Link:SKULL-T9](<File:Skullt9.png>)
-{Template("main"):[SKULL-T9]}}
+[File:Skullt9.png](<File:Skullt9.png>)
+{{Template("main"):[SKULL-T9]}}
 
 
 The latest SKULL-9 model equipped with a high-density fusion energy release system.
 Release energy by right-clicking once fully charged.
 
 ### Whip Sword
-[right|Link:Whip Sword](<File:Plain_sword.png>)
-{Template("main"):[Whip Sword]}}
+[File:Plain_sword.png](<File:Plain_sword.png>)
+{{Template("main"):[Whip Sword]}}
 
 
 A sword made of smaller sword parts linked together in the form of a whip, increasing weapon attack speed and range.
 It has numerous attack combo that connect one attack to another, making it a versatile weapon for the battlefield.
 
 ### Death Eater
-[right|Link:Death Eater](<File:Death_eater.png>)
-{Template("main"):[Death Eater]}}
+[File:Death_eater.png](<File:Death_eater.png>)
+{{Template("main"):[Death Eater]}}
 
 
 A shotgun developed with alien technology that can hit nearby targets with its basic attacks. Its special attack, Hyper Beam, deals damage to enemies in front of the shooter.
 
 ### Hauteclere
-[right|link:Hauteclere](<File:Swordbombard.png>)
-{Template("main"):[Hauteclere]}}
+[File:Swordbombard.png](<File:Swordbombard.png>)
+{{Template("main"):[Hauteclere]}}
 
 
 An awe-inspiring sword of steel, gold, and crystal. It's Special Feature is Blade Tempest, which creates a portal that continuously summons and propels swords forward.
 
 ### Twin Hawk
-[right|link:Twin Hawk](<File:Rocketpistol.png>)
-{Template("main"):[Twin Hawk]}}
+[File:Rocketpistol.png](<File:Rocketpistol.png>)
+{{Template("main"):[Twin Hawk]}}
 
 
 A weapon that has been modified to be worn on both arms by miniaturizing a missile launcher. Basic shots recharge energy, and when a certain amount is accumulated, it becomes <enhanced> and increases attack power.
 
 ### Hécate II Umbra
-[right|link=Hecate II Umbra](<File:Chainsr.png>)
-{Template("main"):[Hecate II Umbra]}}
+[File:Chainsr.png](<File:Chainsr.png>)
+{{Template("main"):[Hecate II Umbra]}}
 
 
 This powerful bolt action sniper rifle is chambered for 20 rounds of .50 BMG and is possessed by the specter of a prolific special force member from the past. The specter appears in the form of a shadow soldier as you defeat enemies, firing with a pinpoint precision before vanishing.
@@ -472,43 +472,43 @@ This powerful bolt action sniper rifle is chambered for 20 rounds of .50 BMG and
 {{Start Tabber}}
 
 ### Laser Ripper
-[right|Link:Laser Ripper](<File:Chainsawex.png>)
-{Template("main"):[Laser Ripper]}}
+[File:Chainsawex.png](<File:Chainsawex.png>)
+{{Template("main"):[Laser Ripper]}}
 
 
 The Ripper has been upgraded with a laser cutter than can cleave through foes.
 
 ### Gigantic Drill
-[right|Link:Gigantic Drill](<File:Sgdrillex.png>)
-{Template("main"):[Gigantic Drill]}}
+[File:Sgdrillex.png](<File:Sgdrillex.png>)
+{{Template("main"):[Gigantic Drill]}}
 
 
 A customizable weapon for the Magnum Drill. It pours out 50 4-gauge shotgun bullets or pierces and crushes the enemy using the 2nd mode giant drill. Equipped as a main weapon, the knockback effect is in Zombie and Scenario modes only.
 
 ### Cousteau
-[right|link:Cousteau](<File:Coustos.png>)
-{Template("main"):[Cousteau]}}
+[File:Coustos.png](<File:Coustos.png>)
+{{Template("main"):[Cousteau]}}
 
 
 A futuristic sentry gun that lands in a stealth state once thrown, and automatically attacks any enemies it detects with its sensors.
 
 ### Tyrant's Mace
-[right|Link:Tyrant Mace](<File:tyrant_mace.png>)
-{Template("main"):[Tyrant Mace]}}
+[File:tyrant_mace.png](<File:tyrant_mace.png>)
+{{Template("main"):[Tyrant Mace]}}
 
 
 A mace imbued with the power of an ice tyrant. The energy of the tyrant is gathered according to the passage of time or the damage done to the enemy, and when all the energy is gathered, it can be used to inflict ruthless attacks on the enemies in front.
 
 ### Demolition Hammer
-[right|Link:Demolition Hammer](<File:demolition_hammer.png>)
-{Template("main"):[Demolition Hammer]}}
+[File:demolition_hammer.png](<File:demolition_hammer.png>)
+{{Template("main"):[Demolition Hammer]}}
 
 
 A melee weapon created with Aegis Institute technology. As a huge two-handed hammer, you can feel its heaviness just by holding it. When the gauge is charged, you can perform a powerful slam attack and a follow-up hits using iron poles.
 
 ### M3 Azhi Dahaka
-[right|link=M3 Azhi Dahaka](<File:Buffm3ex.png>)
-{Template("main"):[M3 Azhi Dahaka]}}
+[File:Buffm3ex.png](<File:Buffm3ex.png>)
+{{Template("main"):[M3 Azhi Dahaka]}}
 
 
 A shotgun imbued with the soul of a demonic dragon. Its basic attack is accompanied by dragon breath, which can be used to unleash a <Dragon Burst> on a marked target, and <Dragon Rising>, which summons the dragon to fight alongside you.
@@ -519,23 +519,23 @@ A shotgun imbued with the soul of a demonic dragon. Its basic attack is accompan
 {{Start Tabber}}
 
 ### Drakar-III
-[right|link:Drakar-III](<File:Drakar3.png>)
-{Template("main"):[Drakar-III]}}
+[File:Drakar3.png](<File:Drakar3.png>)
+{{Template("main"):[Drakar-III]}}
 
 
 A tactical rifle that uses 60 rounds of 5.56mm bullets and feels the Viking's energy. Its performance has been improved compared to the Drakar-II. The gauge is charged by hitting an enemy, and when the gauge is maxed out, the weapon level increases when reloading, and the gauge increases. If it is insufficient, the level decreases. Weapon performance changes depending on the level up to level 3, and when reloading, you can use special bullets to inflict damage to enemies within the range for a certain period of time.
 
 ### Photon Launcher
-[right|link:Photon Launcher](<File:Linkattacksg.png>)
-{Template("main"):[Photon Launcher]}}
+[File:Linkattacksg.png](<File:Linkattacksg.png>)
+{{Template("main"):[Photon Launcher]}}
 
 
 
 This is a pump action shotgun that uses 30 rounds of 12 gauge made with otherworldly technology that creates a photon sphere at the location where the special ammunition exploded, allows indirect hit on enemies in the photon sphere with a normal attack.
 
 ### Hyper Gaebolg
-[right|link:Hyper Gaebolg](<File:Hyper_gaebolg.png>)
-{Template("main"):[Hyper Gaebolg]}}
+[File:Hyper_gaebolg.png](<File:Hyper_gaebolg.png>)
+{{Template("main"):[Hyper Gaebolg]}}
 
 
 
@@ -544,7 +544,7 @@ This is the modified version of Gae Bolg with some of the leaked initial technol
 {{End Tabber}}
 
 
-{Template("clear"):[]}}
+{{Template("clear"):[]}}
 
 
 ## Transcendent Classes
@@ -724,7 +724,7 @@ This is the modified version of Gae Bolg with some of the leaked initial technol
 * [Infinity Laser Fist](<Infinity Laser Fist>) is the first submachine gun under Transcendence Series.
 * [Thunder Force](<Thunder Force>) is the first weapon selled together with an Epic Weapon, [Divine Blaster](<Divine Blaster>).
 
-{Template("Weapons"):[]}}
+{{Template("weapons"):[]}}
 
 
 [Category:Weapons](<Category:Weapons>)
